@@ -1,8 +1,8 @@
-Raytracer using CSG Scene Representation 
+RayTracer using CSG Scene Representation 
 ========================================
 
 
-![Example](examples/scene.png)
+![Scene](examples/scene.png)
 
 ---
 
